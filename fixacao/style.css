@@ -1,0 +1,37 @@
+header {
+    height: 40px;
+    padding: 20px;
+    color: darkorange;
+    border: 5px solid black;
+    
+
+
+}
+main {
+    margin: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 80vh;
+    width: 90vw;
+}
+article {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+footer {
+    height: 40px;
+    padding: 10px;
+    color: black;
+
+}
+
+.sub-titulo {
+    font-family: Arial;
+    color: orange;
+}
+.texto-generico {
+    font-family: Helvetica;
+}
